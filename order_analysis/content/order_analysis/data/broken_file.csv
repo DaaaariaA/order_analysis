@@ -1,0 +1,4 @@
+order_id,person_id,order_date,status,total_amount,currency,payment_method,shipping_method,notes
+1,101,2024-01-10,Delivered,100.50,USD,credit_card,standard,
+2,102,2024-01-11,Delivered,abc,USD,paypal,express,
+3,103,2024-01-12,Cancelled,250.00,USD,klarna,fedex,
