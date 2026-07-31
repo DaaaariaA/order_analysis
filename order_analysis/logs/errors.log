@@ -1,0 +1,2 @@
+2026-07-30 20:13:47,659 - ERROR - broken_file.csv: Unable to parse string "abc" at position 1
+2026-07-30 20:37:08,643 - ERROR - broken_file.csv: Unable to parse string "abc" at position 1
